@@ -1,6 +1,7 @@
 import java.util.Objects;
 
 public class Author {
+
     private String name;
     private String surname;
 
